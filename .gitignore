@@ -1,0 +1,64 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+*.log.*
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Configuración específica del entorno
+.env
+*.local
+
+# Directorios y archivos de compilación
+/node_modules/
+/dist/
+/build/
+/out/
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos de Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+
+# Archivos de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de herramientas
+/.eslintcache
+/.prettierignore
+/.prettiercache
+
+# Archivos de backup
+*.bak
+*.orig
+*.save
+
+# Archivos de imágenes y binarios generados
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.tiff
+*.bmp
+*.webp
+*.pdf
+*.exe
+*.dll
