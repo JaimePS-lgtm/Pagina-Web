@@ -1,0 +1,3 @@
+Mi trabajo esta constituido por una presentación de mi mismo, mis intereses y mis redes sociales, detalles sobre un grado académico en este caso ingeniería informática, explicacion en profundo de la asignatura de fundamentos de ingeniería informática, y un apartado sobre la despedida de Jesús Navas. También cuenta con enlaces para compartir con otros compañeros y una sección de contacto.
+Los problemas que he tenido han sido por el github ya que para enlacer paginas yo estaba poniendo un comienzo el cual no detectaba github y hasta que me he dado cuenta he estado un largo tiempo intentado solucionar el error.
+También tuve problemas a la hora de empezar pero Anthony me ayudó y pude empezar por fin.

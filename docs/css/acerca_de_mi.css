@@ -58,3 +58,8 @@ p {
 .back-link:hover {
     text-decoration: underline;
 }
+.image {
+    max-width: 45%;
+    height: auto;
+    border-radius: 8px;
+}
